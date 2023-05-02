@@ -2,7 +2,7 @@
 
 /**
  * print_listint_safe - Entry Point
- * Description: Function that prints the linked list
+ * Description: Function that prints a linked list
  * @head: list of type listint_t to print
  *
  * Return: number of nodes in the list
